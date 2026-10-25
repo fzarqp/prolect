@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\Cправочник формул\Cправочник формул\bin\Debug\Cправочник формул.exe.config
+C:\Users\1\source\repos\Cправочник формул\Cправочник формул\bin\Debug\Cправочник формул.exe
+C:\Users\1\source\repos\Cправочник формул\Cправочник формул\bin\Debug\Cправочник формул.pdb
+C:\Users\1\source\repos\Cправочник формул\Cправочник формул\obj\Debug\Cправочник формул.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Cправочник формул\Cправочник формул\obj\Debug\Cправочник_формул.Properties.Resources.resources
+C:\Users\1\source\repos\Cправочник формул\Cправочник формул\obj\Debug\Cправочник формул.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Cправочник формул\Cправочник формул\obj\Debug\Cправочник формул.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Cправочник формул\Cправочник формул\obj\Debug\Cправочник формул.exe
+C:\Users\1\source\repos\Cправочник формул\Cправочник формул\obj\Debug\Cправочник формул.pdb
+C:\Users\1\source\repos\Cправочник формул\Cправочник формул\obj\Debug\Cправочник_формул.MainForm.resources
